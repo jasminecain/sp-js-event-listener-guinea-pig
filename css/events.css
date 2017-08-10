@@ -1,0 +1,30 @@
+section:first-child {
+  font-weight: bold;
+}
+
+section:last-child {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.blue {
+  color: blue;
+}
+
+.enlarge {
+  font-size: 60px;
+}
+
+.borderitup {
+  border: 2px solid;
+}
+
+.rounded {
+  border: 2px solid;
+  border-radius: 50px;
+}
+
+button {
+  display: block;
+  margin: 10px;
+}
